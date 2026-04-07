@@ -1,8 +1,8 @@
 class Kitak < Formula
   desc "Vanity address generator for Ethereum, Bitcoin, and Solana"
   homepage "https://github.com/katanacap/kitak"
-  url "https://github.com/katanacap/kitak/archive/refs/tags/v3.1.3.tar.gz"
-  sha256 "02437713112a9b07d011335c13c443b99d97c5ebcb0965fc446378c06cee4e8a"
+  url "https://github.com/katanacap/kitak/archive/refs/tags/v3.2.0.tar.gz"
+  sha256 "78a154131c8285b9c79f61603de69b226cc1aad702800d835aeab5f578fd52d2"
   license "Apache-2.0"
 
   depends_on "rust" => :build
